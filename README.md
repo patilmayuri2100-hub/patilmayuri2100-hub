@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mayuri Patil 👋
 
-<!--
-**patilmayuri2100-hub/patilmayuri2100-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering student at SAGE University Bhopal (2029)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about coding, problem-solving, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming:** C, C++, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Currently Learning:** Data Structures and Algorithms in Java
+
+### 🚀 Projects
+- **[VK EVENTS](https://vkeventsservices.in)** — Event management website featuring service information, an enquiry form, and a gallery.
+
+### 🎯 Goals
+- Strengthen my programming and DSA fundamentals.
+- Build practical software projects.
+- Prepare for software engineering internships.
+
+### 🔗 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/mayuri-patil-cse
+- **GitHub:** https://github.com/patilmayuri2100-hub
+
+*Always learning, building, and improving!* ✨
