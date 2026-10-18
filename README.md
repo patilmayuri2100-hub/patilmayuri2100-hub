@@ -10,7 +10,10 @@
 - **Currently Learning:** Data Structures and Algorithms in Java
 
 ### 🚀 Projects
-- **[VK EVENTS](https://vkeventsservices.in)** — Event management website featuring service information, an enquiry form, and a gallery.
+
+- **[VK EVENTS — Live Website](https://vkeventsservices.in)** 🌐  
+  Event management website featuring service information, an event enquiry form, and a gallery.  
+  **[View Source Code on GitHub](https://github.com/patilmayuri2100-hub/VK-EVENTS)**
 
 ### 🎯 Goals
 - Strengthen my programming and DSA fundamentals.
