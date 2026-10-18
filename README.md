@@ -1,4 +1,4 @@
-![Mayuri Patil GitHub Banner]Build Learn Grow_ Mayuri Patil’s Tech Journey.png
+![Mayuri Patil GitHub Banner](Build%20Learn%20Grow_%20Mayuri%20Patil%E2%80%99s%20Tech%20Journey.png)
 # Hi there, I'm Mayuri Patil 👋
 
 🎓 B.Tech Computer Science and Engineering student at SAGE University Bhopal (2029)
